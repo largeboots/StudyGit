@@ -59,12 +59,21 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
+      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "e8f72662-84c3-42dc-8543-489a94069e54",
+      "Name": "Responsible",
+      "Code": "Responsible",
+      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
+    {
       "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
       "NameGuid": "10524519-989b-4247-bfd1-42ed37728574",
       "Name": "Note",
       "Code": "Note",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+      "PreviousPropertyGuid": "e8f72662-84c3-42dc-8543-489a94069e54"
     }
   ],
   "PublicStructures": [],
